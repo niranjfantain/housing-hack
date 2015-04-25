@@ -1,0 +1,7 @@
+Django==1.8
+Pillow==2.8.1
+PyYAML==3.11
+argparse==1.2.1
+django-bootstrap3==5.4.0
+django-fontawesome==0.2.2
+wsgiref==0.1.2
